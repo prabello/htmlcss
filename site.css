@@ -95,9 +95,7 @@ em {
     padding: 20px;
 }
 
-.icone-rede-social {
-    display: inline-block;
-}
+
 
 .leiamais {
     font-size: 25px;
@@ -105,4 +103,26 @@ em {
     display: block;
     text-align: center;
     background-color: #E6E7E8;
+}
+
+.lower-case {
+    text-transform: lowercase;
+}
+
+.icones-redes-sociais a {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -999999999px;
+}
+.github{
+    background-image: url(github.png);
+}
+
+.twitter{
+    background-image: url(twitter.png);
+}
+
+.linkedin{
+    background-image: url(linkedin.png);
 }
